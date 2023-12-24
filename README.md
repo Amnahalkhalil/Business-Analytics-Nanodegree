@@ -42,7 +42,7 @@ This Udacity program aims to develop foundational data skills. Analyze data usin
 
 ## [Certificate of Completion](https://graduation.udacity.com/confirm/NMLGR26X)
 
-![image](Files/udacity-business-analytics.png.jpg)
+![image](External%20Files/udacity-business-analytics.png)
 
 
 ---
