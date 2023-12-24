@@ -5,22 +5,22 @@ This Udacity program aims to develop foundational data skills. Analyze data usin
 #### [Course Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Business+Analytics+Nanodegree+Program+Syllabus+2.0.pdf)
 
 
-## [Program Projects](#)
+## Program Projects
 
 #### Project #1 - Interpret a Data Visualization
-[Project Link](https://github.com/Amnahalkhalil/Business-Analytics-Nanodegree/tree/main/Project%20%232%20-%20Analyze%20NYSE%20Data)
+[Project Link](https://github.com/Amnahalkhalil/Business-Analytics-Nanodegree/tree/main/Project%20%231%20-%20Interpret%20a%20Data%20Visualization)
 
 > In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
 
-[Project Rubric](External%20Files/Project%20#1%20-%20Insights%20from%20Data.pdf)
+[Project Rubric](External%20Files/Project%20%231%20-%20Insights%20from%20Data.pdf)
 
 
 #### Project #2 - Analyze NYSE Data
-[Project Link](https://github.com/Amnahalkhalil/Business-Analytics-Nanodegree/tree/main/Project%20%231%20-%20Interpret%20a%20Data%20Visualization)
+[Project Link](https://github.com/Amnahalkhalil/Business-Analytics-Nanodegree/tree/main/Project%20%232%20-%20Analyze%20NYSE%20Data)
 
 > In this project, you’ll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You’ll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
 
-[Project Rubric](External%20Files/Project%20#2%20-%20Rubric.pdf)
+[Project Rubric](External%20Files/Project%20%232%20-%20Rubric.pdf)
 
 
 #### Project #3 - Query a Digital Music Store Database
